@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  itrix_id: MyString
+  name: MyString
+  college: MyString
+  year: 
+  mobile: 
+  email: MyString
+
+two:
+  itrix_id: MyString
+  name: MyString
+  college: MyString
+  year: 
+  mobile: 
+  email: MyString
